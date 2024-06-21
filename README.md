@@ -1,7 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on CRM system
 - 🌱 I’m currently learning pentest
-- 🤔 I’m looking for help with React,TS
 - ⚡ Fun fact: i'm oil man)
   
 <!--
