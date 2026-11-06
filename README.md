@@ -1,8 +1,4 @@
-## Hi there 👋
 
-- 🔭 I’m currently working on CRM system
-- 🌱 I’m currently learning pentest
-- ⚡ Fun fact: i'm oil man)
   
 <!--
 **A-m-u-r/A-m-u-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
